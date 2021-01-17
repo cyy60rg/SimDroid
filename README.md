@@ -9,5 +9,31 @@ SimDroid is made using [![androguard_v1.5](https://storage.googleapis.com/google
 
 ## Documentation
 
+* Clone the repo
 
+* Move to repo dir
+```
+$ cd Simdroid
+```
 
+* Create Analysis folder
+```
+$ mkdir Analysis_androgd
+```
+  * Create analysis result dir
+  ```
+  $ mkdir Analysis_androgd/exodus
+  ``` 
+
+* Move to __`simdroid`__ folder
+```
+$ cd simdroid
+```
+
+* Run __`androsim`__
+```
+$ python androsim.py -i [android_apk1] [android_apk2]
+```
+
+#### Result 
+* Check in `../Analysis_androgd/exodus`
