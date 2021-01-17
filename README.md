@@ -37,3 +37,8 @@ $ python androsim.py -i [android_apk1] [android_apk2]
 
 #### Result 
 * Check in `../Analysis_androgd/exodus`
+
+### License
+
+[License](LICENSE)
+
