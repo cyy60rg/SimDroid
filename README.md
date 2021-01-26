@@ -35,8 +35,23 @@ $ cd simdroid
 $ python androsim.py -i [android_apk1] [android_apk2]
 ```
 
-#### Result 
+#### Analysis Result 
 * Check in `../Analysis_androgd/exodus`
+
+# bibtex
+```
+@InProceedings{10.1007/978-3-030-05171-6_8,
+author="Kishore, Sreesh and Kumar, Renuka and Rajan, Sreeranga",
+title="Towards Accuracy in Similarity Analysis of Android Applications",
+booktitle="Information Systems Security",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="146--167",
+isbn="978-3-030-05171-6"
+}
+
+```
 
 ### License
 
