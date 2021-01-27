@@ -1,5 +1,5 @@
 # SimDroid
-Computing static similarity between android packages
+This repository contains the code related to the [paper](https://link.springer.com/chapter/10.1007/978-3-030-05171-6_8). Please [cite](https://github.com/sreeshk692/SimDroid#Reference) SimDroid when using it in academic publications.
 
 __Version: `2.0`__
 
@@ -38,6 +38,11 @@ $ python androsim.py -i [android_apk1] [android_apk2]
 #### Analysis Result 
 * Check in `../Analysis_androgd/exodus`
 
+## Reference
+
+```
+Kishore S., Kumar R., Rajan S. (2018) Towards Accuracy in Similarity Analysis of Android Applications. In: Ganapathy V., Jaeger T., Shyamasundar R. (eds) Information Systems Security. ICISS 2018. Lecture Notes in Computer Science, vol 11281. Springer, Cham. https://doi.org/10.1007/978-3-030-05171-6_8
+```
 ### bibtex
 ```
 @InProceedings{10.1007/978-3-030-05171-6_8,
